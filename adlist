@@ -1,3 +1,5 @@
 0.0.0.0 ads.trafficjunky.com
 0.0.0.0 ht-cdn.trafficjunky.net
 0.0.0.0 prospectsportscoaching.co.uk
+0.0.0.0 (\.|^)optnx\.com$
+0.0.0.0 (\.|^)vfthr\.com$
